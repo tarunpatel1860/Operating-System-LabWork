@@ -1,4 +1,4 @@
-package operatingsystem;
+package oslab;
 
 import java.util.Scanner;
 
